@@ -1,6 +1,6 @@
 image:
   repository: tccr.io/truecharts/gitea
-  tag: v1.20.2@sha256:a26d969f33efe1141fa1f1c5d8aede1c66f0cb1e252b5f1a39b564a4e1ca9ea0
+  tag: v1.20.3@sha256:bef98e0704f399a73c1e67be72f9baa9b8efe0f389d002b823e014c3171a7445
   pullPolicy: IfNotPresent
 service:
   main:
